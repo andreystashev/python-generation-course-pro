@@ -1,0 +1,30 @@
+type: video
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+thumbnail: https://cdn.stepik.net/video/155777/thumbnail/9f189f206348a6d04462a66340ca1832.jpg
+sources:
+- src: https://cdn.stepik.net/video/155777/720/204043971fe6f22772849e760fb751ea.mp4
+  res: 720
+  type: video/mp4
+  label: 720p
+- src: https://cdn.stepik.net/video/155777/540/563607d3a00aef5e0114dcd6ad3a2c16.mp4
+  res: 540
+  type: video/mp4
+  label: 540p
+- src: https://cdn.stepik.net/video/155777/360/f39b14e323690287b581c43ad27157e3.mp4
+  res: 360
+  type: video/mp4
+  label: 360p
+- src: https://cdn.stepik.net/video/155777/240/6845c3b59dd7234ca684bffb266b1e36.mp4
+  res: 240
+  type: video/mp4
+  label: 240p
+currentTime: 0
+status: Solved
+record: -1
+post_submission_on_open: true

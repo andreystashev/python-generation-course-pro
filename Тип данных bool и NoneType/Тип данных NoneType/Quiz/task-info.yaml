@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: мультитон
+- text: наблюдатель
+- text: декоратор
+- text: синглтон
+- text: адаптер
+- text: прототип
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Solved
+record: -1
